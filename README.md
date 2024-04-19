@@ -7,6 +7,8 @@ Run this Code to pull this repository
 git clone https://github.com/rickycanonigo/task-crud.git
 ```
 
+Note: Change the .env file configuration
+
 #### Run Composer
 ```
 task-crud>composer install
